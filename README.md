@@ -73,6 +73,6 @@ Through this project, I strengthened my understanding of:
 
 ## 👩‍💻 Author
 
-**Chandni**
+**Dushyant Singh**
 
 Feel free to connect with me on **LinkedIn** and check out my other projects on GitHub.
